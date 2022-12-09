@@ -1,0 +1,195 @@
+{
+  "gradeData": {
+    "course": [
+      [
+        {
+          "grades": [
+            [
+              {
+                "work": [
+                  {
+                    "aName":"App Project Lesson 10",
+                    "date":"11/2/2022",
+                    "gGrade":false,
+                    "fGrade":false,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Unit 1 Exam",
+                    "date":"11/14/2022",
+                    "gGrade":14,
+                    "fGrade":15,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Internet Dilemmas Assignment",
+                    "date":"11/2/2022",
+                    "gGrade":24,
+                    "fGrade":24,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Unit 1 Project - See Rubric",
+                    "date":"11/2/2022",
+                    "gGrade":12,
+                    "fGrade":12,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Unit 2 Exam",
+                    "date":"11/2/2022",
+                    "gGrade":24,
+                    "fGrade":24,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Unit 3 Quiz",
+                    "date":"10/12/2022",
+                    "gGrade":10,
+                    "fGrade":10,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  }
+                ],
+                "info":{
+                  "weight":0.3,
+                  "type":"major",
+                  "topGrade":[],
+                  "maxGrade":[],
+                  "weightedTopGrade":[],
+                  "weightedMaxGrade":[],
+                  "weightedMaxGradeTotal":0,
+                  "weightedTopGradeTotal":0
+                }
+              },
+              {
+                "work": [
+                  {
+                    "aName":"App Design Reflection Questions",
+                    "date":"11/2/2022",
+                    "gGrade":10,
+                    "fGrade":10,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Binary Conversions",
+                    "date":"11/14/2022",
+                    "gGrade":10,
+                    "fGrade":10,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Lession 12 CFU 1",
+                    "date":"11/2/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Lesson 4 CFU 1",
+                    "date":"11/2/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Lesson 5 CFU 3",
+                    "date":"11/2/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"Lesson 9 CFU 3",
+                    "date":"10/12/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"U2 L3 CFU 3",
+                    "date":"11/6/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"U2 Lesson 2 CFU 1",
+                    "date":"11/5/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"U2L4 CFU 3",
+                    "date":"11/5/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  },
+                  {
+                    "aName":"U2L6 CFU 3",
+                    "date":"11/2/2022",
+                    "gGrade":5,
+                    "fGrade":5,
+                    "wGivenGrade":false,
+                    "wFullGrade":false,
+                    "redo":false
+                  }
+                ],
+                "info": {
+                  "weight":0.7,
+                  "type":"minor",
+                  "topGrade":[],
+                  "maxGrade":[],
+                  "weightedTopGrade":[],
+                  "weightedMaxGrade":[],
+                  "weightedMaxGradeTotal":0,
+                  "weightedTopGradeTotal":0
+                }
+              }
+            ]
+          ],
+          "classInfo": {
+            "type":0
+          }
+        }
+      ]
+    ]
+  },
+  "profile":{
+    "name":"",
+    "level":0,
+    "grade":0,
+    "system":0
+  }
+}
