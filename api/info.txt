@@ -1,0 +1,5 @@
+to make work:
+install pocketbase
+ensure line 4 in index.js is the same as pocketbase server (./pocketbase serve)
+run index.js
+run apicall.js (with selected function)
